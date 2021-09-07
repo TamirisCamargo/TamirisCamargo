@@ -8,7 +8,7 @@
 <hr/>
 
 <center>
-
+  
 <div>
   <a href="https://github.com/TamirisCamargo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TamirisCamargo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
