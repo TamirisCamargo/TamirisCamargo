@@ -5,6 +5,8 @@
 - 👩‍🎓 Cursando Engenharia da Computação na UNIVESP
 - 😄 Pronomes: ela, dela/ she, her.
 
+<hr/>
+
 <center>
 
 <div>
