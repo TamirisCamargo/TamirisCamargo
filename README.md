@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Tamiris Camargo 👋
 
-- 🔭 Atualmente estou em transição de carreira
+- 🔭 Desenvolvedora Full Stack
 - 🌱 Estudando Desenvolvimento Full Stack na Gama Academy
 - 👩‍🎓 Cursando Engenharia da Computação na UNIVESP
 - 😄 Pronomes: ela, dela/ she, her.
