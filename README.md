@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Tamiris Camargo 👋
 
 - 🔭 Desenvolvedora Full Stack
-- 🌱 Estudando Desenvolvimento Full Stack na Gama Academy
 - 👩‍🎓 Cursando Engenharia da Computação na UNIVESP
 - 😄 Pronomes: ela, dela/ she, her.
 
@@ -11,8 +10,8 @@
   
 <div>
   <a href="https://github.com/TamirisCamargo">
-  <img align="left" width="450px" height="195px" src="https://github-readme-stats.vercel.app/api?username=TamirisCamargo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img widith="650em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamirisCamargo&layout=compact&langs_count=5&theme=dracula"/>
+  <img align="left" width="450px" height="180em" src="https://github-readme-stats.vercel.app/api?username=TamirisCamargo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamirisCamargo&layout=compact&langs_count=5&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
